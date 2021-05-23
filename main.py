@@ -2,7 +2,7 @@
 # https://github.com/Humanity123/MemNet_ABSA
 # https://github.com/pcgreat/mem_absa
 # https://github.com/NUSTM/ABSC
-
+#test
 import tensorflow as tf
 import cabascModel
 import lcrModel
